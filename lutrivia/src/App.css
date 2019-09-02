@@ -1,0 +1,15 @@
+.card {
+    border: 2px solid pink;
+    border-radius: 5px;
+    text-align: center;
+    border-width: 1px;
+    margin: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.score {
+    border: 2px solid blue;
+    border-radius: 1px;
+    text-align: right;
+}
